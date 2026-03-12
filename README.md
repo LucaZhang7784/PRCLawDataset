@@ -8,9 +8,12 @@
 中国政府网-国家法律法规数据库(https://flk.npc.gov.cn/index)
 更新日期：03/10/2026
 
+# Quote
+中华人民共和国法律手册[LawRefBook](https://github.com/RanKKI/LawRefBook)
+感谢作者@RankKKI
+
 # Include
 部门规章
-法律
 法律
 全国性行政法规
 监察法规
